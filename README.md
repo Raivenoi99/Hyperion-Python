@@ -1,6 +1,3 @@
-#Hyperion Python
-Intrudusing a new python type named Hyperion a perfect python type for python Gui(Graphical User Interface) coders!
-
 ### Custom Python-Like Scripting Language for GUI Applications
 
 This project introduces a new Python-inspired scripting language designed for creating graphical user interfaces (GUIs) using Tkinter. The language syntax aims to simplify the process of building GUIs while maintaining the readability and ease of Python.
